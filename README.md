@@ -1,6 +1,6 @@
 # Java_Basics
 
-This Reposistory is created for practice purpose who are new to Java
+This Repository is created for practice purpose who are new to Java
 
 ## What is Java?
 Java is a programming language, designed to be concurrent, class-based and object-oriented, as well as a computing platform first released by Sun Microsystems in 1995. An enormous amount of applications and websites will not work unless you have Java installed, and more are created every day.
